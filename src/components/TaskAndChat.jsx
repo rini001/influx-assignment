@@ -5,7 +5,7 @@ export const Task = () => {
   const [data, setData] = useState([]);
   const [chats, setChats] = useState([]);
   useEffect(() => {
-    fetch("http://localhost:8000/tasks", {
+    fetch("https://influx-db.herokuapp.com/tasks", {
       method: "GET",
       headers: { "Content-type": "application/json;charset=UTF-8" },
     })
@@ -19,7 +19,7 @@ export const Task = () => {
       });
   }, []);
   useEffect(() => {
-    fetch("http://localhost:8000/chats", {
+    fetch("https://influx-db.herokuapp.com/chats", {
       method: "GET",
       headers: { "Content-type": "application/json;charset=UTF-8" },
     })

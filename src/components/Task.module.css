@@ -70,6 +70,7 @@ background-color: white;
   
     .mainDiv{
         display: grid;
+        row-gap: 30px;
     }
     .task{
         width:90%;

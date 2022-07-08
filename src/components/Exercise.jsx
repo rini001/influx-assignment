@@ -1,7 +1,7 @@
 import React from 'react'
 import style from "./Exercise.module.css"
 import { Navbar } from './Navbar'
-import { Task } from './Task'
+import { Task} from './TaskAndChat'
 export const Exercise = () => {
   return (
     <div>
