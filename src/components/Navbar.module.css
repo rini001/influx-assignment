@@ -1,0 +1,15 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(229, 229, 241);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.name{
+margin-right: 40px;
+font-weight: bolder;
+font-size: medium;
+}
+.role{
+    margin-right: 40px;
+color: grey;
+}

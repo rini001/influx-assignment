@@ -1,0 +1,62 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "task": "Wash the car",
+      "desc": "written by Bob",
+      "badge":"https://media.istockphoto.com/vectors/rejected-badge-with-cross-icon-flat-vector-illustration-on-white-vector-id840206458"
+    },
+    {
+      "id": 2,
+      "task": "Task with dropdown menu",
+      "desc": "By Johnny",
+      "badge":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShEErEXD5PG7BAHjFy6i4bg9qWAVRWp54TdA&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "task": "Task with dropdown menu",
+      "desc": "By Johnny",
+      "badge":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShEErEXD5PG7BAHjFy6i4bg9qWAVRWp54TdA&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "task": "Go grocery shopping",
+      "desc": "A short description for this todo item",
+      "badge":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShEErEXD5PG7BAHjFy6i4bg9qWAVRWp54TdA&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "task": "Wash the car",
+      "desc": "written by Bob",
+      "badge":"https://media.istockphoto.com/vectors/rejected-badge-with-cross-icon-flat-vector-illustration-on-white-vector-id840206458"
+    },
+    {
+      "id": 6,
+      "task": "Service the car",
+      "desc": "written by Bob",
+      "badge":"https://media.istockphoto.com/vectors/rejected-badge-with-cross-icon-flat-vector-illustration-on-white-vector-id840206458"
+    }
+  ],
+  "chats": [
+    {
+      "id": 1,
+      "display": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/David_Schwimmer_as_Ross_Geller.jpg/220px-David_Schwimmer_as_Ross_Geller.jpg",
+      "text":"Hi" 
+    },
+    {
+      "id": 1,
+      "display": "https://media.vogue.fr/photos/5da46eeee189b20008ababeb/4:3/w_2468,h_1851,c_limit/GettyImages-908311.jpg",
+      "text":"How are you"
+    },
+    {
+      "id": 1,
+      "display": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/David_Schwimmer_as_Ross_Geller.jpg/220px-David_Schwimmer_as_Ross_Geller.jpg",
+      "text":"I am fine and What about you"
+    },
+    {
+      "id": 1,
+      "display": "https://media.vogue.fr/photos/5da46eeee189b20008ababeb/4:3/w_2468,h_1851,c_limit/GettyImages-908311.jpg",
+      "text":"I am good too"
+    }
+  ]
+}
